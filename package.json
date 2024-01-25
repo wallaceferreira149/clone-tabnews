@@ -1,0 +1,35 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "A program to train fullstack development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wallaceferreira149/clone-tabnews.git"
+  },
+  "keywords": [
+    "tabnews",
+    "nextjs",
+    "fullstack"
+  ],
+  "author": "wallace ferreira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wallaceferreira149/clone-tabnews/issues"
+  },
+  "homepage": "https://github.com/wallaceferreira149/clone-tabnews#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.11.6",
+    "@types/react": "18.2.48",
+    "typescript": "5.3.3"
+  }
+}
