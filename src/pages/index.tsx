@@ -1,5 +1,4 @@
-import React from 'react';
 
 export default function Home() {
-  return <h1>Oi</h1>
+  return <h1>Alteração 2</h1>
 };
