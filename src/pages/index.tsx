@@ -1,4 +1,4 @@
 
 export default function Home() {
-  return <h1>Alteração 2</h1>
+  return <h1>🎇 Esse é um teste de deploy na Vercel!</h1>
 };
